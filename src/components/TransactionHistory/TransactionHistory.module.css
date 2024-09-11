@@ -24,7 +24,3 @@ tbody td {
 tbody tr:nth-child(odd) {
     background-color: lightgray;
 }
-
-/* tbody tr:nth-child(even) {
-    background-color: #e495e4;
-} */
